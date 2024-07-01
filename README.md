@@ -1,4 +1,4 @@
-# getting-started-with-threejs
+Animated Shape in ThreeJS
 
 Overview
 This project demonstrates a basic setup for an interactive 3D scene using Three.js, a popular JavaScript library for creating 3D graphics in the browser.
@@ -16,3 +16,5 @@ Clone or download the repository to explore and modify the 3D scene. Open index.
 Technologies
 Three.js: JavaScript 3D library.
 OrbitControls: Provided by Three.js for camera manipulation.
+
+![ScreenRecording2024-07-01at7 37 35AM-ezgif com-video-to-gif-converter](https://github.com/azmatalvi42/ThreeJS/assets/79230884/8a5667a4-03be-4a73-ab7c-f5855ebe04bc)
